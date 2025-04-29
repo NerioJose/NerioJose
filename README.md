@@ -43,7 +43,8 @@
 - HTML5, CSS3 (Sass)
 - Tailwind
 - NextJS
-- Vite  
+- Vite
+- Astro 
 - JavaScript
 - TypeScript
 
