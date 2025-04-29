@@ -40,13 +40,21 @@
 ### *Frontend*  
 - React Js
 - Redux  
-- HTML5, CSS3 (Sass)  
+- HTML5, CSS3 (Sass)
+- Tailwind
+- NextJS
+- Vite  
 - JavaScript
+- TypeScript
 
 ### *Backend*  
+- NestJS
 - NodeJs  
-- Express  
-- PostgreSQL  
+- Express
+- Fastify  
+- PostgreSQL
+- MongoDB
+- TypeORM  
 - Sequelize
 
 ### *Otras*  
